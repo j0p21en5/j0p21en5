@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @j0p21en5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# My GitHub Profile
 
-<!---
-j0p21en5/j0p21en5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about coding and open source projects.
+
+- 👋 Hi, I’m Jay Patel
+- 🌱 I’m currently learning ...
+
+## Skills
+
+- Programming languages: C++
+- Web development: HTML, CSS
+- Version control: Git, GitHub
+
+## Contact
+
+You can reach me at [jaykumarpatel881@gmail.com)
+
+Feel free to explore my repositories and contribute to any open source projects you find interesting. Happy coding!
+
+![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j0p21en5)
