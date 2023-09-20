@@ -11,9 +11,9 @@ Wel  come to my GitHub profile! I'm passionate about coding and open source proj
 - Web development: HTML, CSS
 - Version control: Git, GitHub
 
-## Contact
+## Co ntact
 
-You can reach me at [jaykumarpatel881@gmail.com)
+You can reach me at  [jaykumarpatel881@gmail.com)
 
 Feel f ree to explore my repositories and contribute to any open source projects you find interesting. Happy coding!
 
