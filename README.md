@@ -7,7 +7,7 @@ Wel  come to my GitHub profile! I'm passionate about coding and open source proj
 
 ## Skills.
 
-- Programming languages: C++
+- Program ming languages: C++
 - Web development: HTML, CSS
 - Version control: Git, GitHub
 
