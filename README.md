@@ -1,6 +1,6 @@
   # My GitHub Profile
 
-Wel  come to my GitHub profile! I'm p a ssionate  about coding and open source projects.
+Wel  come to my GitHub profile! I'm p  a ssionate  about coding and open source projects.
 
 - 👋 Hi, I’m Jay Patel
 - 🌱 I’m currently learning ...
