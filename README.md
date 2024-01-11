@@ -10,7 +10,7 @@ welcome to my GitHub profile! I'm passionate  about coding and open source proje
 - Web development: HTML, CSS
 - Version control: Git, GitHub
 
-## Co ntact
+## Contact
 
 You can reach me at  [jaykumarpatel881@gmail.com)
 
