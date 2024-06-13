@@ -1,4 +1,4 @@
-            # My GitHub Profile
+        # My GitHub Profile
 welcome to my GitHub profile! I'm passionate  about coding and open source projects.
 
 - 👋 Hi, I’m Jay Patel
