@@ -32,9 +32,11 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 ---
 
-## 📈 GitHub Stats
+### My GitHub Stats:
+![Jay Kumar Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0p21en5&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Jay Kumar Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+### My GitHub Streaks:
+![Jay Kumar Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j0p21en5&theme=radical)
 
 ---
 
