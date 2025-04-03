@@ -1,5 +1,5 @@
 # Hello, I'm Jay Kumar Patel! 👋
-
+ 
 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new technologies. Here's a little about me:
 
 ---
