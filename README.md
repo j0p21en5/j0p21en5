@@ -43,4 +43,4 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jay-patel-616296270))
-- 🌍
+- You can reach me via email: [jaykumarpatel881@gmail.com](mailto:jaykumarpatel881@gmail.com)
